@@ -1,0 +1,3 @@
+[submodule "3-multi-module-workspace/workspace/example"]
+	path = 3-multi-module-workspace/workspace/example
+	url = git@github.com:gaurav-iitg/go-tutorials.git
